@@ -48,10 +48,10 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 [Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z6gQDvWJrR2oe3liMLkaBGU)
 
-* Adversarial approach to Improve Detection capabilities (Massimo Bozza Pietro Romano) [SLIDES](./slides/2018/Massimo_Bozza_Pietro_Romano_Adversarial_approach_to_Improve_Detection_capabilities.pdf)
-* whoami priv - show me your Windows privileges and I will lead you to SYSTEM (Andrea Pierini) [SLIDES](./slides/2018/Andrea_Pierini_whoami_priv_show_me_your_Windows_privileges_and_I_will_lead_you_to_SYSTEM.pdf)
-* Windows RID Hijacking Maintaining Access on Windows Machines (Sebastian Castro) [SLIDES](./slides/2018/Sebastian_Castro_Windows_RID_Hijacking_Maintaining_Access_on_Windows_Machines.pdf)
-* Samurai in the digital age (Zanshin Tech) [SLIDES](./slides/2018/Zanshin_Tech_Samurai_in_the_digital_age.pdf)
-* Human Users Detection stop bots with Nginx (Andrea Menin) [SLIDES](./slides/2018/Andrea_Menin_Human_Users_Detection_stop_bots_with_Nginx.pdf)
-* Cyber Saiyan - LIVE DEMO [SLIDES](./slides/2018/Cyber_Saiyan_LIVE_DEMO.pdf)
+* Adversarial approach to Improve Detection capabilities (Massimo Bozza Pietro Romano) [SLIDES](./slides/2018/Massimo_Bozza_Pietro_Romano_Adversarial_approach_to_Improve_Detection_capabilities.pdf) | [VIDEO](https://youtu.be/r02SNMyPAiI)
+* whoami priv - show me your Windows privileges and I will lead you to SYSTEM (Andrea Pierini) [SLIDES](./slides/2018/Andrea_Pierini_whoami_priv_show_me_your_Windows_privileges_and_I_will_lead_you_to_SYSTEM.pdf) | [VIDEO](https://youtu.be/vRivLCELwEY)
+* Windows RID Hijacking Maintaining Access on Windows Machines (Sebastian Castro) [SLIDES](./slides/2018/Sebastian_Castro_Windows_RID_Hijacking_Maintaining_Access_on_Windows_Machines.pdf) | [VIDEO](https://www.youtube.com/watch?v=jVsOI647804)
+* Samurai in the digital age (Zanshin Tech) [SLIDES](./slides/2018/Zanshin_Tech_Samurai_in_the_digital_age.pdf) | [VIDEO](https://youtu.be/n177f5e5pkc)
+* Human Users Detection stop bots with Nginx (Andrea Menin) [SLIDES](./slides/2018/Andrea_Menin_Human_Users_Detection_stop_bots_with_Nginx.pdf) | [VIDEO](https://youtu.be/qYBRnE0u-Sw)
+* Cyber Saiyan - LIVE DEMO [SLIDES](./slides/2018/Cyber_Saiyan_LIVE_DEMO.pdf) | [VIDEO](https://youtu.be/5HxDQMx6o5g) | [CODE](https://github.com/CyberSaiyanIT/RomHack-2018---Live-Demo)
 
