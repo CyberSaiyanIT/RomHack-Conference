@@ -16,12 +16,12 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 [Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z75lVisztflYK4v_7XBwuTh)
 
-* My last Solaris talk (not your average keynote) (Marco Ivaldi) [SLIDES](./slides/2021/Marco_Ivaldi.pdf)
-* Fuzzing Apache HTTP Server for fun (and CVEs) (Antonio Morales) [SLIDES](./slides/2021/Antonio_Morales.pdf)
-* Securing Access to Internet Voting with the OWASP ModSecurity Core Rule Set (Christian Folini) [SLIDES](./slides/2021/Christian_Folini.pdf)
-* Breaking Azure AD joined endpoints in zero-trust environments (Dirk-jan Mollema) [SLIDES](./slides/2021/Dirk_jan_Mollema.pdf)
-* sigstore, software signing for the masses! (Luke Hinds) [SLIDES](./slides/2021/Luke_Hinds.pdf)
-* Making your own Stuxnet: Exploiting New Vulnerabilities and Voodooing PLCs (Nicolas Delhaye & Flavian Dola) [SLIDES](./slides/2021/Nicolas_Delhaye_Flavian_Dola.pdf)
+* My last Solaris talk (not your average keynote) (Marco Ivaldi) [SLIDES](./slides/2021/Marco_Ivaldi.pdf) | [VIDEO](https://youtu.be/Nc9ZLTb2hQ8)
+* Fuzzing Apache HTTP Server for fun (and CVEs) (Antonio Morales) [SLIDES](./slides/2021/Antonio_Morales.pdf) | [VIDEO](https://youtu.be/BnMxnZVIO3k)
+* Securing Access to Internet Voting with the OWASP ModSecurity Core Rule Set (Christian Folini) [SLIDES](./slides/2021/Christian_Folini.pdf) | [VIDEO](https://youtu.be/BnMxnZVIO3k)
+* Breaking Azure AD joined endpoints in zero-trust environments (Dirk-jan Mollema) [SLIDES](./slides/2021/Dirk_jan_Mollema.pdf) | [VIDEO](https://youtu.be/OigKnI68Sfo)
+* sigstore, software signing for the masses! (Luke Hinds) [SLIDES](./slides/2021/Luke_Hinds.pdf) | [VIDEO](https://youtu.be/JXcqX5ozuvc)
+* Making your own Stuxnet: Exploiting New Vulnerabilities and Voodooing PLCs (Nicolas Delhaye & Flavian Dola) [SLIDES](./slides/2021/Nicolas_Delhaye_Flavian_Dola.pdf) | [VIDEO](https://youtu.be/9PGyOyJTbrE) | [DEMO](https://drive.google.com/file/d/1aDiPR-_GXyh1nugos22CreoV4Qe4s_FD/view?usp=sharing)
 
 #### RomHack 2020 (27 Sep 2020)
 
