@@ -29,12 +29,12 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 #### 28 Sep 2019
 
-* Oh! Auth: Implementation pitfalls of OAuth 2.0 & the Auth Providers who have fell in it (Samit Anwer) [SLIDES](./slides/2019/Anwer - OAuth.pdf)
-* Infiltrating Corporate Intranet Like NSA Pre-auth RCE on Leading SSL VPNs (Orange Tsai & Meh Chang) [SLIDES](./slides/2019/Tsai-Chang - infiltrate like NSA.pdf)
-* Reverse engineering of IoT devices hack a home router (Valerio Di Giampietro) [SLIDES](./slides/2019/Di Giampietro - IoT reverse.pdf)
-* Red teaming: from badge to domain (Francesco Perna & Lorenzo Nicolodi) [SLIDES](./slides/2019/Perna-Nicolodi - Red Teaming.pdf)
-* How to impress your management when you are an Active Directory noob? (Vincent Le Toux) [SLIDES](./slides/2019/Le Toux - Impress your management.pdf)
-* SAFE: Self Attentive Function Embedding for Binary Similarity (Luca Massarelli) [SLIDES](./slides/2019/Massarelli - SAFE.pdf)
+* Oh! Auth: Implementation pitfalls of OAuth 2.0 & the Auth Providers who have fell in it (Samit Anwer) [SLIDES](./slides/2019/Anwer_OAuth.pdf)
+* Infiltrating Corporate Intranet Like NSA Pre-auth RCE on Leading SSL VPNs (Orange Tsai & Meh Chang) [SLIDES](./slides/2019/Tsai-Chang_infiltrate_like_NSA.pdf)
+* Reverse engineering of IoT devices hack a home router (Valerio Di Giampietro) [SLIDES](./slides/2019/Di_Giampietro_IoT_reverse.pdf)
+* Red teaming: from badge to domain (Francesco Perna & Lorenzo Nicolodi) [SLIDES](./slides/2019/Perna-Nicolodi_Red_Teaming.pdf)
+* How to impress your management when you are an Active Directory noob? (Vincent Le Toux) [SLIDES](./slides/2019/Le_Toux_Impress_your_management.pdf)
+* SAFE: Self Attentive Function Embedding for Binary Similarity (Luca Massarelli) [SLIDES](./slides/2019/Massarelli_SAFE.pdf)
 
 #### 22 Sep 2018
 
