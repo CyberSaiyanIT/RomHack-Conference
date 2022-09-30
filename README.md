@@ -27,11 +27,11 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 [Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z4fWDJnVbq_gEs0udEKpat6)
 
-* Windows Privilege Escalations: Still abusing local service accounts to get SYSTEM privilege (Antonio Cocomazzi) [SLIDES](./slides/2020/Cocomazzi.pdf)
-* BYOI (Bring Your Own Interpreter) payloads: Fusing the powah of .NET with a scripting language of your choosing (Marcello Salvati) [SLIDES](./slides/2020/Salvati.pdf)
-* Falco: runtime security analysis through syscalls (Leo Di Donato) [SLIDES](./slides/2020/runtime_security_analysis_through_syscalls.pdf)
-* Serverless security: attack & defense (Pawel Rzepa) [SLIDES](./slides/2020/Rzepa.pdf)
-* From 0 to Hero - Actionable Threat Intelligence (Raffaele Di Taranto & Vito Lucatorto) [SLIDES](./slides/2020/DiTaranto_Lucatorto.pdf)
+* Windows Privilege Escalations: Still abusing local service accounts to get SYSTEM privilege (Antonio Cocomazzi) [SLIDES](./slides/2020/Cocomazzi.pdf) | [VIDEO](https://www.youtube.com/watch?v=UAfJkYYny_0)
+* BYOI (Bring Your Own Interpreter) payloads: Fusing the powah of .NET with a scripting language of your choosing (Marcello Salvati) [SLIDES](./slides/2020/Salvati.pdf) | [VIDEO](https://www.youtube.com/watch?v=KvMBHNo7mZk)
+* Falco: runtime security analysis through syscalls (Leo Di Donato) [SLIDES](./slides/2020/runtime_security_analysis_through_syscalls.pdf) | [VIDEO](https://www.youtube.com/watch?v=8o804koab2g)
+* Serverless security: attack & defense (Pawel Rzepa) [SLIDES](./slides/2020/Rzepa.pdf) | [VIDEO](https://www.youtube.com/watch?v=jWVm0NxWGdY)
+* From 0 to Hero - Actionable Threat Intelligence (Raffaele Di Taranto & Vito Lucatorto) [SLIDES](./slides/2020/DiTaranto_Lucatorto.pdf) | [VIDEO](https://www.youtube.com/watch?v=6JErary7sZg)
 
 #### RomHack 2019 (28 Sep 2019)
 
