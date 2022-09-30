@@ -5,12 +5,12 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 [Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7_484rLnddqXFfZyi4v7IF)
 
-* The Vendor / Researcher Relationship Needs Improvement (James Forshaw) [SLIDES](./slides/2022/James_Forshaw_Keynote.pdf)
-* Attacking Azure AD by abusing Synchronisation API: The story behind 40.000 USD in bug bounties (Nestori Syynimaa) [SLIDES](./slides/2022/Attacking_Azure_AD_by_abusing_Synchronisation_API.pdf)
-* Security in a Immutable web3 World: Breaching Smart Contracts (Davide TheZero) [SLIDES](./slides/2022/Security_in_a_Immutable_web3_World_Breaching_Smart_Contracts.pdf)
-* DES-On-Fire: Breaking Physical Access Control (Markus Vervier and Yasar Klawohn) [SLIDES](./slides/2022/DES_On_Fire_Breaking_Physical_Access_Control.pdf)
-* Bypassing Anti-Cheats & Hacking Competitive Games (Rohan Aggarwal) [SLIDES](./slides/2022/Bypassing_Anti_Cheats_Hacking_Competitive_Games.pdf)
-* You shall not PassRole! (Edoardo Rosa) [SLIDES](./slides/2022/You_shall_not_PassRole.pdf)
+* The Vendor / Researcher Relationship Needs Improvement (James Forshaw) [SLIDES](./slides/2022/James_Forshaw_Keynote.pdf) | [VIDEO](https://www.youtube.com/watch?v=t-OBKLYaBuk)
+* Attacking Azure AD by abusing Synchronisation API: The story behind 40.000 USD in bug bounties (Nestori Syynimaa) [SLIDES](./slides/2022/Attacking_Azure_AD_by_abusing_Synchronisation_API.pdf) | [VIDEO](https://www.youtube.com/watch?v=HWVplPyfCDg)
+* Security in a Immutable web3 World: Breaching Smart Contracts (Davide TheZero) [SLIDES](./slides/2022/Security_in_a_Immutable_web3_World_Breaching_Smart_Contracts.pdf) | [VIDEO](https://www.youtube.com/watch?v=UlfE6InuT6g)
+* DES-On-Fire: Breaking Physical Access Control (Markus Vervier and Yasar Klawohn) [SLIDES](./slides/2022/DES_On_Fire_Breaking_Physical_Access_Control.pdf) | [VIDEO](https://www.youtube.com/watch?v=7bmtDGtUz-o) | [Attack PoC](https://github.com/x41sec/poc/tree/master/CVE-2021-34600-brute-force/)
+* Bypassing Anti-Cheats & Hacking Competitive Games (Rohan Aggarwal) [SLIDES](./slides/2022/Bypassing_Anti_Cheats_Hacking_Competitive_Games.pdf) | [VIDEO](https://www.youtube.com/watch?v=KpP1ZKTnvFc)
+* You shall not PassRole! (Edoardo Rosa) [SLIDES](./slides/2022/You_shall_not_PassRole.pdf) | [VIDEO](https://www.youtube.com/watch?v=p6wJIvHJXjE) | [DEMOS](https://github.com/primait/nuvola/tree/master/assets/demos/)
 
 #### RomHack 2021 (25 Sep 2021)
 
