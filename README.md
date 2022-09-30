@@ -3,7 +3,7 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 #### 24 Sep 2022
 
-* The Vendor / Researcher Relationship Needs Improvement (James Forshaw) [SLIDES](./slides/2022/James Forshaw - Keynote.pdf)
+* The Vendor / Researcher Relationship Needs Improvement (James Forshaw) [SLIDES](./slides/2022/James_Forshaw_Keynote.pdf)
 * Attacking Azure AD by abusing Synchronisation API: The story behind 40.000 USD in bug bounties (Dr Nestori Syynimaa) [SLIDES](./slides/2022/Attacking Azure AD by abusing Synchronisation API.pdf)
 * Security in a Immutable web3 World: Breaching Smart Contracts (Davide TheZero) [SLIDES](./slides/2022/Davide TheZero - Security in a Immutable web3 World Breaching Smart Contracts.pdf)
 * DES-On-Fire: Breaking Physical Access Control (Markus Vervier and Yasar Klawohn) [SLIDES](./slides/2022/Vervier Klawohn - DES On Fire Breaking Physical Access Control.pdf)
