@@ -4,10 +4,10 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 #### 24 Sep 2022
 
 * The Vendor / Researcher Relationship Needs Improvement (James Forshaw) [SLIDES](./slides/2022/James_Forshaw_Keynote.pdf)
-* Attacking Azure AD by abusing Synchronisation API: The story behind 40.000 USD in bug bounties (Dr Nestori Syynimaa) [SLIDES](./slides/2022/Attacking Azure AD by abusing Synchronisation API.pdf)
-* Security in a Immutable web3 World: Breaching Smart Contracts (Davide TheZero) [SLIDES](./slides/2022/Davide TheZero - Security in a Immutable web3 World Breaching Smart Contracts.pdf)
-* DES-On-Fire: Breaking Physical Access Control (Markus Vervier and Yasar Klawohn) [SLIDES](./slides/2022/Vervier Klawohn - DES On Fire Breaking Physical Access Control.pdf)
-* Bypassing Anti-Cheats & Hacking Competitive Games (Rohan Aggarwal) [SLIDES](./slides/2022/Rohan Aggarwal - Bypassing Anti-Cheats  Hacking Competitive Games.pdf)
+* Attacking Azure AD by abusing Synchronisation API: The story behind 40.000 USD in bug bounties (Dr Nestori Syynimaa) [SLIDES](./slides/2022/Attacking_Azure_AD_by_abusing_Synchronisation_API.pdf)
+* Security in a Immutable web3 World: Breaching Smart Contracts (Davide TheZero) [SLIDES](./slides/2022/Security_in_a_Immutable_web3_World_Breaching_Smart_Contracts.pdf)
+* DES-On-Fire: Breaking Physical Access Control (Markus Vervier and Yasar Klawohn) [SLIDES](./slides/2022/DES_On_Fire_Breaking_Physical_Access_Control.pdf)
+* Bypassing Anti-Cheats & Hacking Competitive Games (Rohan Aggarwal) [SLIDES](./slides/2022/Bypassing_Anti_Cheats_Hacking_Competitive_Games.pdf)
 * You shall not PassRole! (Edoardo Rosa) [SLIDES](./slides/2022/You_shall_not_PassRole.pdf)
 
 #### 25 Sep 2021
