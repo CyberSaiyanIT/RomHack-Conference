@@ -1,7 +1,9 @@
 # RomHack Conference
 Here you can find video, slides and other stuff related to RomHack Conference since the beginning (2018). Enjoy!
 
-#### 24 Sep 2022
+#### RomHack 2022 (24 Sep 2022)
+
+[Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7_484rLnddqXFfZyi4v7IF)
 
 * The Vendor / Researcher Relationship Needs Improvement (James Forshaw) [SLIDES](./slides/2022/James_Forshaw_Keynote.pdf)
 * Attacking Azure AD by abusing Synchronisation API: The story behind 40.000 USD in bug bounties (Nestori Syynimaa) [SLIDES](./slides/2022/Attacking_Azure_AD_by_abusing_Synchronisation_API.pdf)
@@ -10,7 +12,9 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 * Bypassing Anti-Cheats & Hacking Competitive Games (Rohan Aggarwal) [SLIDES](./slides/2022/Bypassing_Anti_Cheats_Hacking_Competitive_Games.pdf)
 * You shall not PassRole! (Edoardo Rosa) [SLIDES](./slides/2022/You_shall_not_PassRole.pdf)
 
-#### 25 Sep 2021
+#### RomHack 2021 (25 Sep 2021)
+
+[Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z75lVisztflYK4v_7XBwuTh)
 
 * My last Solaris talk (not your average keynote) (Marco Ivaldi) [SLIDES](./slides/2021/Marco_Ivaldi.pdf)
 * Fuzzing Apache HTTP Server for fun (and CVEs) (Antonio Morales) [SLIDES](./slides/2021/Antonio_Morales.pdf)
@@ -19,7 +23,9 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 * sigstore, software signing for the masses! (Luke Hinds) [SLIDES](./slides/2021/Luke_Hinds.pdf)
 * Making your own Stuxnet: Exploiting New Vulnerabilities and Voodooing PLCs (Nicolas Delhaye & Flavian Dola) [SLIDES](./slides/2021/Nicolas_Delhaye_Flavian_Dola.pdf)
 
-#### 27 Sep 2020
+#### RomHack 2020 (27 Sep 2020)
+
+[Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z4fWDJnVbq_gEs0udEKpat6)
 
 * Windows Privilege Escalations: Still abusing local service accounts to get SYSTEM privilege (Antonio Cocomazzi) [SLIDES](./slides/2020/Cocomazzi.pdf)
 * BYOI (Bring Your Own Interpreter) payloads: Fusing the powah of .NET with a scripting language of your choosing (Marcello Salvati) [SLIDES](./slides/2020/Salvati.pdf)
@@ -27,7 +33,9 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 * Serverless security: attack & defense [ENG] (Pawel Rzepa [SLIDES](./slides/2020/Rzepa.pdf)
 * From 0 to Hero - Actionable Threat Intelligence (Raffaele Di Taranto & Vito Lucatorto) [SLIDES](./slides/2020/DiTaranto_Lucatorto.pdf)
 
-#### 28 Sep 2019
+#### RomHack 2019 (28 Sep 2019)
+
+[Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7CAZhrBH0tzCzGc3Gvw5rf)
 
 * Oh! Auth: Implementation pitfalls of OAuth 2.0 & the Auth Providers who have fell in it (Samit Anwer) [SLIDES](./slides/2019/Anwer_OAuth.pdf)
 * Infiltrating Corporate Intranet Like NSA Pre-auth RCE on Leading SSL VPNs (Orange Tsai & Meh Chang) [SLIDES](./slides/2019/Tsai-Chang_infiltrate_like_NSA.pdf)
@@ -36,7 +44,9 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 * How to impress your management when you are an Active Directory noob? (Vincent Le Toux) [SLIDES](./slides/2019/Le_Toux_Impress_your_management.pdf)
 * SAFE: Self Attentive Function Embedding for Binary Similarity (Luca Massarelli) [SLIDES](./slides/2019/Massarelli_SAFE.pdf)
 
-#### 22 Sep 2018
+#### RomHack 2018 (22 Sep 2018)
+
+[Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z6gQDvWJrR2oe3liMLkaBGU)
 
 * Adversarial approach to Improve Detection capabilities (Massimo Bozza Pietro Romano) [SLIDES](./slides/2018/Massimo_Bozza_Pietro_Romano_Adversarial_approach_to_Improve_Detection_capabilities.pdf)
 * whoami priv - show me your Windows privileges and I will lead you to SYSTEM (Andrea Pierini) [SLIDES](./slides/2018/Andrea_Pierini_whoami_priv_show_me_your_Windows_privileges_and_I_will_lead_you_to_SYSTEM.pdf)
