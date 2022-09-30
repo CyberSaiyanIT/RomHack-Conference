@@ -37,12 +37,12 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 [Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7CAZhrBH0tzCzGc3Gvw5rf)
 
-* Oh! Auth: Implementation pitfalls of OAuth 2.0 & the Auth Providers who have fell in it (Samit Anwer) [SLIDES](./slides/2019/Anwer_OAuth.pdf)
-* Infiltrating Corporate Intranet Like NSA Pre-auth RCE on Leading SSL VPNs (Orange Tsai & Meh Chang) [SLIDES](./slides/2019/Tsai-Chang_infiltrate_like_NSA.pdf)
-* Reverse engineering of IoT devices hack a home router (Valerio Di Giampietro) [SLIDES](./slides/2019/Di_Giampietro_IoT_reverse.pdf)
-* Red teaming: from badge to domain (Francesco Perna & Lorenzo Nicolodi) [SLIDES](./slides/2019/Perna-Nicolodi_Red_Teaming.pdf)
-* How to impress your management when you are an Active Directory noob? (Vincent Le Toux) [SLIDES](./slides/2019/Le_Toux_Impress_your_management.pdf)
-* SAFE: Self Attentive Function Embedding for Binary Similarity (Luca Massarelli) [SLIDES](./slides/2019/Massarelli_SAFE.pdf)
+* Oh! Auth: Implementation pitfalls of OAuth 2.0 & the Auth Providers who have fell in it (Samit Anwer) [SLIDES](./slides/2019/Anwer_OAuth.pdf) | [VIDEO](https://youtu.be/Kt0239ykALY)
+* Infiltrating Corporate Intranet Like NSA Pre-auth RCE on Leading SSL VPNs (Orange Tsai & Meh Chang) [SLIDES](./slides/2019/Tsai-Chang_infiltrate_like_NSA.pdf) | [VIDEO](https://youtu.be/bcThVZcVoX4)
+* Reverse engineering of IoT devices hack a home router (Valerio Di Giampietro) [SLIDES](./slides/2019/Di_Giampietro_IoT_reverse.pdf) | [VIDEO](https://youtu.be/2T_1UeK3h8M)
+* Red teaming: from badge to domain (Francesco Perna & Lorenzo Nicolodi) [SLIDES](./slides/2019/Perna-Nicolodi_Red_Teaming.pdf) | [VIDEO](https://youtu.be/me7OTQoRUsA)
+* How to impress your management when you are an Active Directory noob? (Vincent Le Toux) [SLIDES](./slides/2019/Le_Toux_Impress_your_management.pdf) | [VIDEO](https://www.youtube.com/watch?v=e84_AxTqnXI)
+* SAFE: Self Attentive Function Embedding for Binary Similarity (Luca Massarelli) [SLIDES](./slides/2019/Massarelli_SAFE.pdf) | [VIDEO](https://www.youtube.com/watch?v=MEQxBGOe4vI)
 
 #### RomHack 2018 (22 Sep 2018)
 
