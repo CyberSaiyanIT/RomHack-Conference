@@ -4,7 +4,7 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 #### 24 Sep 2022
 
 * The Vendor / Researcher Relationship Needs Improvement (James Forshaw) [SLIDES](./slides/2022/James_Forshaw_Keynote.pdf)
-* Attacking Azure AD by abusing Synchronisation API: The story behind 40.000 USD in bug bounties (Dr Nestori Syynimaa) [SLIDES](./slides/2022/Attacking_Azure_AD_by_abusing_Synchronisation_API.pdf)
+* Attacking Azure AD by abusing Synchronisation API: The story behind 40.000 USD in bug bounties (Nestori Syynimaa) [SLIDES](./slides/2022/Attacking_Azure_AD_by_abusing_Synchronisation_API.pdf)
 * Security in a Immutable web3 World: Breaching Smart Contracts (Davide TheZero) [SLIDES](./slides/2022/Security_in_a_Immutable_web3_World_Breaching_Smart_Contracts.pdf)
 * DES-On-Fire: Breaking Physical Access Control (Markus Vervier and Yasar Klawohn) [SLIDES](./slides/2022/DES_On_Fire_Breaking_Physical_Access_Control.pdf)
 * Bypassing Anti-Cheats & Hacking Competitive Games (Rohan Aggarwal) [SLIDES](./slides/2022/Bypassing_Anti_Cheats_Hacking_Competitive_Games.pdf)
@@ -12,12 +12,12 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 #### 25 Sep 2021
 
-* My last Solaris talk (not your average keynote) (Marco Ivaldi) [SLIDES](./slides/2021/Marco Ivaldi.pdf)
-* Fuzzing Apache HTTP Server for fun (and CVEs) (Antonio Morales) [SLIDES](./slides/2021/Antonio Morales.pdf)
-* Securing Access to Internet Voting with the OWASP ModSecurity Core Rule Set (Christian Folini) [SLIDES](./slides/2021/Christian Folini.pdf)
-* Breaking Azure AD joined endpoints in zero-trust environments (Dirk-jan Mollema) [SLIDES](./slides/2021/Dirk-jan Mollema.pdf)
-* sigstore, software signing for the masses! (Luke Hinds) [SLIDES](./slides/2021/Luke Hinds.pdf)
-* Making your own Stuxnet: Exploiting New Vulnerabilities and Voodooing PLCs (Nicolas Delhaye & Flavian Dola) [SLIDES](./slides/2021/Nicolas Delhaye Flavian Dola.pdf)
+* My last Solaris talk (not your average keynote) (Marco Ivaldi) [SLIDES](./slides/2021/Marco_Ivaldi.pdf)
+* Fuzzing Apache HTTP Server for fun (and CVEs) (Antonio Morales) [SLIDES](./slides/2021/Antonio_Morales.pdf)
+* Securing Access to Internet Voting with the OWASP ModSecurity Core Rule Set (Christian Folini) [SLIDES](./slides/2021/Christian_Folini.pdf)
+* Breaking Azure AD joined endpoints in zero-trust environments (Dirk-jan Mollema) [SLIDES](./slides/2021/Dirk_jan_Mollema.pdf)
+* sigstore, software signing for the masses! (Luke Hinds) [SLIDES](./slides/2021/Luke_Hinds.pdf)
+* Making your own Stuxnet: Exploiting New Vulnerabilities and Voodooing PLCs (Nicolas Delhaye & Flavian Dola) [SLIDES](./slides/2021/Nicolas_Delhaye_Flavian_Dola.pdf)
 
 #### 27 Sep 2020
 
