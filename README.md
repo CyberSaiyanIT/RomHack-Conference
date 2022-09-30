@@ -30,7 +30,7 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 * Windows Privilege Escalations: Still abusing local service accounts to get SYSTEM privilege (Antonio Cocomazzi) [SLIDES](./slides/2020/Cocomazzi.pdf)
 * BYOI (Bring Your Own Interpreter) payloads: Fusing the powah of .NET with a scripting language of your choosing (Marcello Salvati) [SLIDES](./slides/2020/Salvati.pdf)
 * Falco: runtime security analysis through syscalls (Leo Di Donato) [SLIDES](./slides/2020/runtime_security_analysis_through_syscalls.pdf)
-* Serverless security: attack & defense [ENG] (Pawel Rzepa [SLIDES](./slides/2020/Rzepa.pdf)
+* Serverless security: attack & defense (Pawel Rzepa) [SLIDES](./slides/2020/Rzepa.pdf)
 * From 0 to Hero - Actionable Threat Intelligence (Raffaele Di Taranto & Vito Lucatorto) [SLIDES](./slides/2020/DiTaranto_Lucatorto.pdf)
 
 #### RomHack 2019 (28 Sep 2019)
