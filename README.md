@@ -1,7 +1,7 @@
 # RomHack Conference
 Here you can find video, slides and other stuff related to RomHack Conference since the beginning (2018). Enjoy!
 
-#### RomHack 2022 (24 Sep 2022)
+#### RomHack 2022 (Sep 24th, 2022)
 
 [Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7_484rLnddqXFfZyi4v7IF)
 
@@ -12,7 +12,7 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 * Bypassing Anti-Cheats & Hacking Competitive Games (Rohan Aggarwal) [SLIDES](./slides/2022/Bypassing_Anti_Cheats_Hacking_Competitive_Games.pdf) | [VIDEO](https://www.youtube.com/watch?v=KpP1ZKTnvFc)
 * You shall not PassRole! (Edoardo Rosa) [SLIDES](./slides/2022/You_shall_not_PassRole.pdf) | [VIDEO](https://www.youtube.com/watch?v=p6wJIvHJXjE) | [DEMOS](https://github.com/primait/nuvola/tree/master/assets/demos/)
 
-#### RomHack 2021 (25 Sep 2021)
+#### RomHack 2021 (Sep 25th, 2021)
 
 [Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z75lVisztflYK4v_7XBwuTh)
 
@@ -23,7 +23,7 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 * sigstore, software signing for the masses! (Luke Hinds) [SLIDES](./slides/2021/Luke_Hinds.pdf) | [VIDEO](https://youtu.be/JXcqX5ozuvc)
 * Making your own Stuxnet: Exploiting New Vulnerabilities and Voodooing PLCs (Nicolas Delhaye & Flavian Dola) [SLIDES](./slides/2021/Nicolas_Delhaye_Flavian_Dola.pdf) | [VIDEO](https://youtu.be/9PGyOyJTbrE) | [DEMO](https://drive.google.com/file/d/1aDiPR-_GXyh1nugos22CreoV4Qe4s_FD/view?usp=sharing)
 
-#### RomHack 2020 (27 Sep 2020)
+#### RomHack 2020 (Sep 27th, 2020)
 
 [Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z4fWDJnVbq_gEs0udEKpat6)
 
@@ -33,7 +33,7 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 * Serverless security: attack & defense (Pawel Rzepa) [SLIDES](./slides/2020/Rzepa.pdf) | [VIDEO](https://www.youtube.com/watch?v=jWVm0NxWGdY)
 * From 0 to Hero - Actionable Threat Intelligence (Raffaele Di Taranto & Vito Lucatorto) [SLIDES](./slides/2020/DiTaranto_Lucatorto.pdf) | [VIDEO](https://www.youtube.com/watch?v=6JErary7sZg)
 
-#### RomHack 2019 (28 Sep 2019)
+#### RomHack 2019 (Sep 28th, 2019)
 
 [Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7CAZhrBH0tzCzGc3Gvw5rf)
 
@@ -44,7 +44,7 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 * How to impress your management when you are an Active Directory noob? (Vincent Le Toux) [SLIDES](./slides/2019/Le_Toux_Impress_your_management.pdf) | [VIDEO](https://www.youtube.com/watch?v=e84_AxTqnXI)
 * SAFE: Self Attentive Function Embedding for Binary Similarity (Luca Massarelli) [SLIDES](./slides/2019/Massarelli_SAFE.pdf) | [VIDEO](https://www.youtube.com/watch?v=MEQxBGOe4vI)
 
-#### RomHack 2018 (22 Sep 2018)
+#### RomHack 2018 (Sep 22nd, 2018)
 
 [Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z6gQDvWJrR2oe3liMLkaBGU)
 
