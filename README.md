@@ -1,6 +1,18 @@
 # RomHack Conference
 Here you can find video, slides and other stuff related to RomHack Conference since the beginning (2018). Enjoy!
 
+#### RomHack 2023 (Sep 16th, 2022)
+
+[Video Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7hGRBjR4qUc8CmCEm_a27s)
+
+* Kim Zetter: Sun Stroke: How the SolarWinds hackers pulled off their ingenious operation and scorched the vulnerable underbelly of the software supply chain [SLIDES](./slides/2023/RomHack-2023-Kim-Zetter-SolarWinds-Keynote.pdf) | [VIDEO](https://youtu.be/yNGt_xxbUGc)
+* Ting-Yu Chen (NiNi): A Comprehensive Review on the Less-Traveled Road: 9 Years of Overlooked MikroTik Pre-Auth RCE [SLIDES](./slides/2023/RomHack-2023-Ting-Yu-Chen-NiN-9-Years-of-Overlooked-MikroTik-Pre-Auth-RCE.pdf) | [VIDEO](https://youtu.be/_BGcjGzUTM8)
+* Alessandro Magnosi (klezVirus): The Bright Side of the Moon: Exploring Novel Techniques for Bypassing Call Stack Analysis [SLIDES](./slides/2023/RomHack-2023-Alessandro-Magnosi-Bypassing-Call-Stack-Analysis.pdf) | [VIDEO](https://youtu.be/sC4kAoveIVE)
+* Rajanish Pathak (h4ckologic) and Hardik Mehta (hardw00t): Hacking into the iOS’s VOLTE implementation [SLIDES](./slides/2023/RomHack-2023-Rajanish-Pathak-and-Hardik-Mehta-IoS-Volte.pdf) | [VIDEO](https://youtu.be/B-Nw5_9VFPQ)
+* Orange Tsai: A 3-Year Tale of Hacking a Pwn2Own Target: The Attacks, Vendor Evolution, and Lesson Learned [SLIDES](./slides/2023/RomHack-2023-Orange-Tsai-A-3-years-tale-of-hacking-a-Pwn2Own-target.pdf) | [VIDEO](https://youtu.be/HlOzSLcFdnY)
+* Luca Bongiorni (Cyberantani): HandPwning: “Your Hand is your Passport. Verify me. Now let me in! [SLIDES](./slides/2023/RomHack-2023-Luca-Bongiorni-HandPwning.pdf) | [VIDEO](https://youtu.be/0rv2fXYR0Lo)
+* Round Table with the speakers [VIDEO](https://youtu.be/0rv2fXYR0Lo)
+
 #### RomHack 2022 (Sep 24th, 2022)
 
 [Video Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7_484rLnddqXFfZyi4v7IF)
