@@ -3,7 +3,7 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 #### RomHack 2022 (Sep 24th, 2022)
 
-[Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7_484rLnddqXFfZyi4v7IF)
+[Video Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7_484rLnddqXFfZyi4v7IF)
 
 * The Vendor / Researcher Relationship Needs Improvement (James Forshaw) [SLIDES](./slides/2022/James_Forshaw_Keynote.pdf) | [VIDEO](https://www.youtube.com/watch?v=t-OBKLYaBuk)
 * Attacking Azure AD by abusing Synchronisation API: The story behind 40.000 USD in bug bounties (Nestori Syynimaa) [SLIDES](./slides/2022/Attacking_Azure_AD_by_abusing_Synchronisation_API.pdf) | [VIDEO](https://www.youtube.com/watch?v=HWVplPyfCDg)
@@ -14,7 +14,7 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 #### RomHack 2021 (Sep 25th, 2021)
 
-[Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z75lVisztflYK4v_7XBwuTh)
+[Video Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z75lVisztflYK4v_7XBwuTh)
 
 * My last Solaris talk (not your average keynote) (Marco Ivaldi) [SLIDES](./slides/2021/Marco_Ivaldi.pdf) | [VIDEO](https://youtu.be/Nc9ZLTb2hQ8)
 * Fuzzing Apache HTTP Server for fun (and CVEs) (Antonio Morales) [SLIDES](./slides/2021/Antonio_Morales.pdf) | [VIDEO](https://youtu.be/BnMxnZVIO3k)
@@ -25,7 +25,7 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 #### RomHack 2020 (Sep 27th, 2020)
 
-[Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z4fWDJnVbq_gEs0udEKpat6)
+[Video Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z4fWDJnVbq_gEs0udEKpat6)
 
 * Windows Privilege Escalations: Still abusing local service accounts to get SYSTEM privilege (Antonio Cocomazzi) [SLIDES](./slides/2020/Cocomazzi.pdf) | [VIDEO](https://www.youtube.com/watch?v=UAfJkYYny_0)
 * BYOI (Bring Your Own Interpreter) payloads: Fusing the powah of .NET with a scripting language of your choosing (Marcello Salvati) [SLIDES](./slides/2020/Salvati.pdf) | [VIDEO](https://www.youtube.com/watch?v=KvMBHNo7mZk)
@@ -35,7 +35,7 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 #### RomHack 2019 (Sep 28th, 2019)
 
-[Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7CAZhrBH0tzCzGc3Gvw5rf)
+[Video Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7CAZhrBH0tzCzGc3Gvw5rf)
 
 * Oh! Auth: Implementation pitfalls of OAuth 2.0 & the Auth Providers who have fell in it (Samit Anwer) [SLIDES](./slides/2019/Anwer_OAuth.pdf) | [VIDEO](https://youtu.be/Kt0239ykALY)
 * Infiltrating Corporate Intranet Like NSA Pre-auth RCE on Leading SSL VPNs (Orange Tsai & Meh Chang) [SLIDES](./slides/2019/Tsai-Chang_infiltrate_like_NSA.pdf) | [VIDEO](https://youtu.be/bcThVZcVoX4)
@@ -46,7 +46,7 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 #### RomHack 2018 (Sep 22nd, 2018)
 
-[Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z6gQDvWJrR2oe3liMLkaBGU)
+[Video Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z6gQDvWJrR2oe3liMLkaBGU)
 
 * Adversarial approach to Improve Detection capabilities (Massimo Bozza Pietro Romano) [SLIDES](./slides/2018/Massimo_Bozza_Pietro_Romano_Adversarial_approach_to_Improve_Detection_capabilities.pdf) | [VIDEO](https://youtu.be/r02SNMyPAiI)
 * whoami priv - show me your Windows privileges and I will lead you to SYSTEM (Andrea Pierini) [SLIDES](./slides/2018/Andrea_Pierini_whoami_priv_show_me_your_Windows_privileges_and_I_will_lead_you_to_SYSTEM.pdf) | [VIDEO](https://youtu.be/vRivLCELwEY)
