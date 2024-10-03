@@ -1,7 +1,7 @@
 # RomHack Conference
 Here you can find video, slides and other stuff related to RomHack Conference since the beginning (2018). Enjoy!
 
-#### RomHack 2023 (Sep 16th, 2022)
+#### RomHack 2023 (Sep 16th, 2023)
 
 [Video Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z7hGRBjR4qUc8CmCEm_a27s)
 
