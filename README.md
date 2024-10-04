@@ -5,7 +5,7 @@ Here you can find video, slides and other stuff related to RomHack Conference si
 
 [Video Playlist](https://www.youtube.com/playlist?list=PL1UJVNzpT9Z6JNLIRI-8FG4jnD-2x3E2g)
 
-* Lorenzo Cavallaro “Trustworthy AI… for Systems Security” [SLIDES](https://romhack.io/wp-content/uploads/sites/3/2024/10/Lorenzo-Cavallaro-Trustworthy-AI-for-Systems-Security-RomHack-2024.pdf) | [VIDEO]([https://youtu.be/yNGt_xxbUGc](https://youtu.be/jhz3vcAAl3s))
+* Lorenzo Cavallaro “Trustworthy AI… for Systems Security” [SLIDES](https://romhack.io/wp-content/uploads/sites/3/2024/10/Lorenzo-Cavallaro-Trustworthy-AI-for-Systems-Security-RomHack-2024.pdf) | [VIDEO]([https://youtu.be/yNGt_xxbUGc](https://youtu.be/jhz3vcAAl3s)
 * Sina Kheirkhah “Unveiling the ivanti vulnerability: from discovery to exploitation” [SLIDES](https://romhack.io/wp-content/uploads/sites/3/2024/10/Sina-Kheirkhah-Unveiling-the-Ivanti-vulnerability-from-discovery-to-exploitation-RomHack-2024.pdf) | [VIDEO](https://youtu.be/BR6gghGIjtQ)
 * Alex Plaskett & McCaulay Hudson “Revving up: the journey to pwn2own automotive 2024” [SLIDES](https://romhack.io/wp-content/uploads/sites/3/2024/10/Alex-Plaskett-McCaulay-Hudson-Revving-up-the-journey-to-pwn2own-automotive-2024-RomHack-2024.pdf) | [VIDEO](https://youtu.be/43ngR6j8en8)
 * Adnan Khan “The dark side of github actions” [SLIDES](https://romhack.io/wp-content/uploads/sites/3/2024/10/Adnan-Khan-The-dark-side-of-github-actions-RomHack-2024.pdf) | [VIDEO](https://youtu.be/76NEylOsOS0)
